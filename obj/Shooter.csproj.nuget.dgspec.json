@@ -1,0 +1,77 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/ryan/Dev/lab/monogame/Shooter/Shooter.csproj": {}
+  },
+  "projects": {
+    "/home/ryan/Dev/lab/monogame/Shooter/Shooter.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/ryan/Dev/lab/monogame/Shooter/Shooter.csproj",
+        "projectName": "Shooter",
+        "projectPath": "/home/ryan/Dev/lab/monogame/Shooter/Shooter.csproj",
+        "packagesPath": "/home/ryan/.nuget/packages/",
+        "outputPath": "/home/ryan/Dev/lab/monogame/Shooter/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/ryan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MonoGame.Content.Builder.Task": {
+              "target": "Package",
+              "version": "[3.8.1.303, )"
+            },
+            "MonoGame.Framework.DesktopGL": {
+              "target": "Package",
+              "version": "[3.8.1.303, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.linux-x64",
+              "version": "[6.0.18, 6.0.18]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/7.0.107/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,6 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"/home/ryan/Dev/lab/monogame/Shooter/Content/background.jpg","/home/ryan/Dev/lab/monogame/Shooter/Content/bin/DesktopGL/Content/background.xnb","TextureProcessor","Texture2DContent",8370149,96641109,1.7537456
+"/home/ryan/Dev/lab/monogame/Shooter/Content/crosshair.png","/home/ryan/Dev/lab/monogame/Shooter/Content/bin/DesktopGL/Content/crosshair.xnb","TextureProcessor","Texture2DContent",5908,10085,0.0838344
+"/home/ryan/Dev/lab/monogame/Shooter/Content/font.spritefont","/home/ryan/Dev/lab/monogame/Shooter/Content/bin/DesktopGL/Content/font.xnb","FontDescriptionProcessor","SpriteFontContent",546,37964,0.08083
+"/home/ryan/Dev/lab/monogame/Shooter/Content/menu.spritefont","/home/ryan/Dev/lab/monogame/Shooter/Content/bin/DesktopGL/Content/menu.xnb","FontDescriptionProcessor","SpriteFontContent",528,37964,0.1624259
+"/home/ryan/Dev/lab/monogame/Shooter/Content/pigeon.png","/home/ryan/Dev/lab/monogame/Shooter/Content/bin/DesktopGL/Content/pigeon.xnb","TextureProcessor","Texture2DContent",7685,40085,0.0868519
